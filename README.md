@@ -69,3 +69,19 @@ Python · scikit-learn · XGBoost · LightGBM · SHAP · optbinning · patsy/sta
 
 Francisco Morales Reina
 
+## Fuente de datos y atribución
+
+Este proyecto utiliza el **Brazilian E-Commerce Public Dataset by Olist**, publicado por Olist y alojado en Kaggle.
+
+- **Fuente:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Proveedor de los datos:** Olist.
+- **Periodo de los datos:** 2016–2018.
+- **Licencia del dataset:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Los datos originales contienen información anonimizada sobre pedidos, clientes, vendedores, productos, pagos, entregas y valoraciones de clientes.
+
+El tratamiento de datos, el análisis exploratorio, la ingeniería y selección de variables, la modelización predictiva, la interpretabilidad, la puntuación de vendedores y la segmentación de clientes desarrollados en este repositorio son elaboración propia, a partir del dataset original.
+
+**Atribución:** Olist. (2018). *Brazilian E-Commerce Public Dataset by Olist* [Conjunto de datos]. Kaggle. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+**Nota sobre la licencia:** el dataset original está sujeto a sus propias condiciones de licencia. Consulta la licencia antes de redistribuir los datos originales o derivados, o de utilizar el proyecto con fines comerciales.
